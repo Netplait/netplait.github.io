@@ -1,5 +1,2 @@
 # Official website to Netplait
-```mermaid
-graph LR
-A(User) -- View info? --> B(netplait.github.io)
-A(User) -- Download? --> C(netplait.heliohost.org)
+This repository contains the source code to the official Netplait website featuring the project, downloads and documentations.
