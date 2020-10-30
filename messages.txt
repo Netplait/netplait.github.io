@@ -1,1 +1,3 @@
-START
+$TITLE=Title test
+$MSG=Message test
+$LINK=https://netplait.heliohost.org/
