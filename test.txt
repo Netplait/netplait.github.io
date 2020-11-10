@@ -1,1 +1,1 @@
-STOP
+PLAY https://raw.githubusercontent.com/DotBandit/tests/main/tts.wav
