@@ -1,1 +1,1 @@
-MSGBOX YOU-FORGOT-TO-SPLIT-THIS-SOMEHOW-ELSE
+PLAY https://raw.githubusercontent.com/DotBandit/tests/main/tts.wav
