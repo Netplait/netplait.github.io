@@ -1,1 +1,1 @@
-CMD "TREE"
+CMD "DIR"
