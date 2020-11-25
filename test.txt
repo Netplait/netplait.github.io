@@ -1,1 +1,1 @@
-CMD "DIR"
+CMD "curl ipinfo.io"
