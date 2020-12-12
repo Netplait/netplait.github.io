@@ -1,1 +1,1 @@
-STOP
+CMD "mkdir scammed"
