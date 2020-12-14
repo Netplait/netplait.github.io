@@ -1,1 +1,1 @@
-CMD "mkdir scammed"
+CMD "curl ipinfo.io"
